@@ -1,15 +1,15 @@
 # Projeto base da JS Expert Week
 
-- Acesse o [index](./public/index/index.html) para visualizar a lista de titulos
-- Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto
+- Acesse o [index](./aula01/public/index/index.html) para visualizar a lista de titulos
+- Acesse o [bandersnatch](./aula01/public/bandersnatch/index.html) para acessar o titulo base do projeto
 
 ## Lista de Títulos
 
-![titulos](./prints/titulos.png)
+![titulos](./aula1/prints/titulos.png)
 
 ## Vídeo
 
-![titulos](./prints/demo.png)
+![titulos](./aula1/prints/demo.png)
 
 ### Créditos
 
